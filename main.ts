@@ -52,7 +52,6 @@ basic.forever(function () {
         basic.clearScreen()
     } else {
         basic.showIcon(IconNames.Skull)
-        basic.pause(100)
         basic.clearScreen()
         basic.showString("¶ Tu reviendras…")
     }
